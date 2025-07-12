@@ -16,7 +16,7 @@
 
 ### 🚀 Немного обо мне
 - 🔭 **Разрабатываю** асинхронные сервисы на **FastAPI + PostgreSQL**, оркестрирую через **Docker Swarm** и **Kubernetes**.  
-- ⚙️ **CI/CD-фанат:** 
+- ⚙️ **CI/CD-фанат** 
 - 🤖 **YouAre.bot** — платформа живого теста Тьюринга
 - 🛠 **MLOps-стек** (MLflow, Airflow, MinIO) — модели в прод за 30 мс ONNX-инференса.  
 
@@ -29,8 +29,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bearcolonel&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearcolonel&layout=compact&hide=jupyter%20notebook" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=semchinov&show_icons=true&theme=default" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semchinov&layout=compact&hide=jupyter%20notebook" height="165">
 </p>
 
 ### 📫 Связь
